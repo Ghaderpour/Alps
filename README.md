@@ -63,9 +63,26 @@ This archive contains GeoTIFF raster datasets generated in the study, including:
 * Coherency maps
 * Additional spatial analysis products
 
-### 3. Python_Code.zip
+### 4. Python Scripts
+# 1. Monthly_Median_TheilSen_Maps.py
 
-Python scripts used for data preprocessing, statistical analyses, trend estimation, correlation analysis, coherency analysis, and figure generation.
+Generates monthly median and pixel-wise Theil–Sen slope maps for MODIS snow cover and land surface temperature (LST) (2000–2025). Produces the raster outputs used in Figures 3, 4, and Figures S1–S6.
+
+# 2. Monthly_Ecoregion_TheilSen.py
+
+Computes the monthly median, Theil–Sen slope, and trend classification for ecoregion-averaged snow cover, daytime LST, and nighttime LST time series. Produces Table 2.
+
+# 3. Pearson_Elevation_LST.py
+
+Calculates the pixel-wise Pearson correlation between elevation and monthly median snow cover or LST rasters for each calendar month. Produces Table 3.
+
+# 4. MODIS_LandCover_TheilSen.py
+
+Computes the median area, Theil–Sen slope, and trend classification for each MODIS land cover class (2001–2024) using ecoregion-wide annual statistics. Produces Table 5.
+
+# 5. LC_LST_ElevationAnalysis.py
+
+Performs the elevation-dependent spatial overlap analysis between significant land cover trends and significant nighttime LST warming or snow cover decline. Produces Tables 6, 7, S1, S2, and supports the analyses presented in Figure 10.
 
 ## Study Period
 
