@@ -60,7 +60,7 @@ This archive contains GeoTIFF raster datasets generated in the study, including:
 * Monthly median maps
 * Theil-Sen slope maps
 * Snow cover–LST Pearson correlation maps
-* Annual coherency and phase maps
+* Annual coherency and phase-difference maps
 * Additional spatial analysis products
 
 ### 4. Python Scripts
