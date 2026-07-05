@@ -26,7 +26,7 @@ The following excel files contain 312 consecutive monthly observations spanning 
 
 These continuous time series were used as inputs for the least-squares cross-wavelet analysis (LSCWA) to produce the cross-spectrograms presented in Figure 7.
 
-### 2. Table-Results
+### 2. Table_Results
 
 This folder contains the Excel files used to generate the tables presented in the manuscript and Supplementary Materials.
 
