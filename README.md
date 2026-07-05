@@ -6,7 +6,7 @@ This repository contains the code and data used in the manuscript:
 
 ## Repository Contents
 
-### 1. Pre-processed-Datasets.zip
+### 1. Preprocessed_Datasets.zip
 
 This folder contains the pre-processed datasets used in this study. In other words, this folder contains the monthly ecoregion-averaged datasets (2000–2025).
 
