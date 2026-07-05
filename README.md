@@ -2,7 +2,7 @@
 
 This repository contains the code and data used in the manuscript:
 
-**"Elevation-Dependent Coupling Between Land Surface Temperature and Snow Cover in the Alpine Conifer and Mixed Forests Ecoregion: A Multi-Scale Trend and Cross-Wavelet Analysis"**
+**"Elevation-Dependent Coupling Between Land Surface Temperature and Snow Cover in the Alpine Conifer and Mixed Forests Ecoregion: A Multi-Scale Trend and Cross-Wavelet Analysis"** by E. Ghaderpour et al. (2026) in Ecological Informatics 
 
 ## Repository Contents
 
