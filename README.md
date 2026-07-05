@@ -74,7 +74,7 @@ Computes the monthly median, Theil–Sen slope, and trend classification for eco
 
 #### 3. Pearson_Elevation_LST.py
 
-Calculates the pixel-wise Pearson correlation between elevation and monthly median snow cover or LST rasters for each calendar month. Produces Table 3.
+Computes the ecoregion-wide Pearson correlation between elevation and the monthly median snow cover or LST maps for each calendar month using all valid pixels within the Alpine Conifer and Mixed Forests ecoregion. Produces Table 3.
 
 #### 4. MODIS_LandCover_TheilSen.py
 
