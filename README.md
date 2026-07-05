@@ -8,7 +8,7 @@ This repository contains the code and data used in the manuscript:
 
 ### Pre-processed-Datasets.zip
 
-This folder contains the pre-processed datasets used in this study. In other words, in contains the monthly ecoregion-averaged datasets (2000–2025).
+This folder contains the pre-processed datasets used in this study. In other words, this folder contains the monthly ecoregion-averaged datasets (2000–2025).
 
 The following excel files contain ecoregion-averaged monthly observations for each calendar month from 2000 to 2025:
   * MODIS_SnowCover_Alps.xlsx
