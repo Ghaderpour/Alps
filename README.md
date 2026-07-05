@@ -58,9 +58,9 @@ Distribution of annual phase-delay classes between snow cover and daytime/nightt
 This archive contains GeoTIFF raster datasets generated in the study, including:
 
 * Monthly median maps
-* Trend (Sen's slope) maps
-* Snow cover–LST correlation maps
-* Coherency maps
+* Theil-Sen slope maps
+* Snow cover–LST Pearson correlation maps
+* Annual coherency and phase maps
 * Additional spatial analysis products
 
 ### 4. Python Scripts
