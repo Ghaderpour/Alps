@@ -39,13 +39,13 @@ Monthly Pearson correlation coefficients between elevation and the median snow c
 Monthly Pearson correlation coefficients between ecoregion-averaged snow cover and daytime/nighttime LST time series (2000–2025). Used to generate Table 4:
 * Table4_Monthly_MODIS_Snow_LST_Correlation_Alps.xlsx
 
-Annual pixel counts and Theil–Sen trend statistics for all MODIS land cover classes (2001–2024). Used to generate Table 5.
+Annual pixel counts and Theil–Sen trend statistics for all MODIS land cover classes (2001–2024). Used to generate Table 5:
 * Table5_MODIS_LC_Theil_Sen_Statistics_Alps.xlsx
 
-Elevation-dependent spatial coupling analysis between significant land cover changes and significant snow cover trends. The workbook contains the results presented in Table 6 (main manuscript) and Table S1 (Supplementary Materials).
+Elevation-dependent spatial coupling analysis between significant land cover changes and significant snow cover trends. The workbook contains the results presented in Table 6 (main manuscript) and Table S1 (Supplementary Materials):
 * Tables6andS1_MODIS_LC_SnowCover_ElevationAnalysis.xlsx
 
-Elevation-dependent spatial coupling analysis between significant land cover changes and significant nighttime LST trends. The workbook contains the results presented in Table 7 (main manuscript) and Table S2 (Supplementary Materials).
+Elevation-dependent spatial coupling analysis between significant land cover changes and significant nighttime LST trends. The workbook contains the results presented in Table 7 (main manuscript) and Table S2 (Supplementary Materials):
 * Tables7andS2_MODIS_LC_NighttimeLST_ElevationAnalysis.xlsx
 
 Distribution of annual phase-delay classes between snow cover and daytime/nighttime LST within four elevation bands for pixels exhibiting annual coherency greater than 10%. Phase differences are grouped into approximately one-month intervals and used to generate Table S3 in the Supplementary Materials:
