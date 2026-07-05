@@ -6,7 +6,7 @@ This repository contains the code and data used in the manuscript:
 
 ## Repository Contents
 
-### Pre-processed-Datasets.zip
+### 1. Pre-processed-Datasets.zip
 
 This folder contains the pre-processed datasets used in this study. In other words, this folder contains the monthly ecoregion-averaged datasets (2000–2025).
 
@@ -26,18 +26,34 @@ The following excel files contain 312 consecutive monthly observations spanning 
 
 These continuous time series were used as inputs for the least-squares cross-wavelet analysis (LSCWA) to produce the cross-spectrograms presented in Figure 7.
 
-### 1. TimeSeries.zip
+### 2. Table-Results
 
-This archive contains annual time series (2000–2025) for each calendar month derived from MODIS products, including:
+This folder contains the Excel files used to generate the tables presented in the manuscript and Supplementary Materials.
 
-* MODIS Snow Cover
-* MODIS Daytime Land Surface Temperature (LST)
-* MODIS Nighttime Land Surface Temperature (LST)
-* MODIS Land Cover (LC_Type1)
+Ecoregion-averaged monthly median values, Theil–Sen slopes, and trend classifications for MODIS snow cover, daytime LST, and nighttime LST (2000–2025). Used to generate Table 2:
+* Table2_Monthly_Theil_Sen_MeanSpatial_Alps.xlsx
 
-It also includes the outputs of trend and statistical analyses used in the study.
+Monthly Pearson correlation coefficients between elevation and the median snow cover, daytime LST, and nighttime LST maps. Used to generate Table 3:
+* Table3_PearsonCorrelation_LSTElevation_SnowCoverElevation.xlsx
 
-### 2. Raster.zip
+Monthly Pearson correlation coefficients between ecoregion-averaged snow cover and daytime/nighttime LST time series (2000–2025). Used to generate Table 4:
+* Table4_Monthly_MODIS_Snow_LST_Correlation_Alps.xlsx
+
+Annual pixel counts and Theil–Sen trend statistics for all MODIS land cover classes (2001–2024). Used to generate Table 5.
+* Table5_MODIS_LC_Theil_Sen_Statistics_Alps.xlsx
+
+Elevation-dependent spatial coupling analysis between significant land cover changes and significant snow cover trends. The workbook contains the results presented in Table 6 (main manuscript) and Table S1 (Supplementary Materials).
+* Tables6andS1_MODIS_LC_SnowCover_ElevationAnalysis.xlsx
+
+Elevation-dependent spatial coupling analysis between significant land cover changes and significant nighttime LST trends. The workbook contains the results presented in Table 7 (main manuscript) and Table S2 (Supplementary Materials).
+* Tables7andS2_MODIS_LC_NighttimeLST_ElevationAnalysis.xlsx
+
+Distribution of annual phase-delay classes between snow cover and daytime/nighttime LST within four elevation bands for pixels exhibiting annual coherency greater than 10%. Phase differences are grouped into approximately one-month intervals and used to generate Table S3 in the Supplementary Materials:
+* TableS3_ElevationBased_PhaseClassification.xlsx
+
+
+
+### 3. Raster.zip
 
 This archive contains GeoTIFF raster datasets generated in the study, including:
 
