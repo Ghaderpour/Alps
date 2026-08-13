@@ -59,7 +59,7 @@ def sen_slope_pixel(ts):
     ts = np.array(ts, dtype=float)
 
     valid = np.isfinite(ts)
-    if np.sum(valid) < 3: # 10 valid observations for a practical working minimum also produced the same results! 
+    if np.sum(valid) < 3: # Thresholds 3 and 10 on these datasets produced the same results! 
         return np.nan
 
     y = ts[valid]
