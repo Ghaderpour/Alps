@@ -48,7 +48,7 @@ def compute_sen_trends(excel_files, out_excel):
             # Remove NaNs
             valid = np.isfinite(ts)
 
-            if np.sum(valid) < 5:
+            if np.sum(valid) < 10:
                 slope = np.nan
                 median = np.nan
                 trend = "no data"
